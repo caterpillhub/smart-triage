@@ -1,0 +1,7 @@
+Flask
+pytesseract
+pdf2image
+Pillow
+dateparser
+python-dateutil
+spacy
